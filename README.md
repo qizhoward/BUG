@@ -44,14 +44,15 @@ Microsoft Whiteboard Bug         </br>
          日本索尼笔记本电脑触摸屏交火显卡情况下
          不后台更改软件软体的情况下
          非物理情况影响下
+         不考虑电脑的提示音情况下
          
          按钮的定义
          PrtScr
          PrintScreen(PrtSc)
          PrtScrSysRq按钮button
          PauseBreak
-         GameBoard TURBO button
-
+         GameBoard TURBO button “TURBO” 
+         
 
 
 
