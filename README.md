@@ -48,7 +48,7 @@ Microsoft Whiteboard Bug         </br>
          
          按钮的定义
          PrtScr　　　　　　　　　　　　　　　　　
-         PrintScreen(PrtSc)                   打印屏幕的含义 录制功能joy驱动软件软体的录制功能
+         PrintScreen(PrtSc)                   打印屏幕的含义 录制功能joy驱动软件软体的录制功能 某国产钢琴软件里是Play按钮
          PrtScrSysRq按钮button                截屏功能
          PauseBreak                          有返回的含义 有暂停的含义
          GameBoard TURBO button “TURBO” 　　　震动功能 配合录制功能使用的话 god smile :) god smile 上帝会微笑
