@@ -38,4 +38,19 @@ Microsoft Whiteboard Bug         </br>
          组装的台式机不清楚
          组装的台式触摸屏不清楚
 
+----------
+
+         这里指我家电脑华硕的主板台式机显卡为N卡非触摸屏
+         日本索尼笔记本电脑触摸屏交火显卡情况下
+         不后台更改软件软体的情况下
+         
+         按钮的定义
+         PrtScr
+         PrintScreen(PrtSc)
+         PrtScrSysRq按钮button
+         PauseBreak
+         GameBoard TURBO button
+
+
+
 
