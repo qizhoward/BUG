@@ -47,11 +47,11 @@ Microsoft Whiteboard Bug         </br>
          不考虑电脑的提示音情况下
          
          按钮的定义
-         PrtScr
-         PrintScreen(PrtSc)
-         PrtScrSysRq按钮button
-         PauseBreak
-         GameBoard TURBO button “TURBO” 
+         PrtScr　　　　　　　　　　　　　　　　　
+         PrintScreen(PrtSc)                   打印屏幕的含义 录制功能joy驱动软件软体的录制功能
+         PrtScrSysRq按钮button                截屏功能
+         PauseBreak                          有返回的含义 有暂停的含义
+         GameBoard TURBO button “TURBO” 　　　震动功能 配合录制功能使用的话 god smile :) god smile 上帝会微笑
          
 
 
