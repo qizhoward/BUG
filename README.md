@@ -54,9 +54,9 @@ Microsoft Whiteboard Bug         </br>
          GameBoard TURBO button “TURBO” 　　　震动功能 配合录制功能使用的话 god smile :) god smile 上帝会微笑
          
 ----------
-　　　　　
-     　　我爱孙敬卬孙敬仰孙敬洋3000遍加四遍
 
+     　　我爱孙敬卬孙敬仰孙敬洋3000遍加四遍
+       
 ----------
 
 
