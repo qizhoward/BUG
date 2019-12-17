@@ -53,6 +53,10 @@ Microsoft Whiteboard Bug         </br>
          PauseBreak                          有返回的含义 有暂停的含义
          GameBoard TURBO button “TURBO” 　　　震动功能 配合录制功能使用的话 god smile :) god smile 上帝会微笑
          
+----------
+　　　　　
+     　　我爱孙敬卬孙敬仰孙敬洋3000遍加四遍
 
+----------
 
 
