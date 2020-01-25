@@ -54,5 +54,8 @@ Microsoft Whiteboard Bug         </br>
          GameBoard TURBO button “TURBO” 　　　震动功能 配合录制功能使用的话 god smile :) god smile 上帝会微笑
          
 ----------
-
+　　　　　
+     　　　法国达索公司软体软件solidworks数据库PDM与物理硬盘冲突
+          可能是因为Linux思维与中国假警察中国武装冲突
+     
 
