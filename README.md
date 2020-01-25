@@ -59,4 +59,23 @@ Microsoft Whiteboard Bug         </br>
           法国达索公司软体软件solidworks数据库PDM与物理硬盘冲突
           可能是因为Linux思维与中国假警察中国武装冲突
           与中国政府正常办公软件冲突
-
+          
+          
+          
+          Conflict between software and physical hard disk of Dassault
+          法国达索公司软件与物理硬盘冲突
+          フランスのダソ会社のソフトウェアは物理のハードディスクと衝突します。
+          конфликт программного обеспечения компании « дарсо» с физическими жесткими дисками 
+          
+          Conflict with normal office software of Chinese government
+          与中国政府正常办公软件冲突
+          中国政府の正常なオフィスソフトと衝突しました。
+          конфликт с обычным офисным программным обеспечением китайского правительства 
+          
+          The Chinese government still uses a lot of pirated software to work
+          中国政府依然使用大量盗版软件办公
+          中国政府は依然として大量の海賊版ソフトを使って執務しています。
+          Китайское правительство по - прежнему использует большое количество пиратских программ 
+          
+----------          
+          
